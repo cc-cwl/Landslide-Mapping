@@ -1,6 +1,6 @@
-## Getting Started with Mask2Former
+## Getting Started with MFTRANS
 
-This document provides a brief intro of the usage of Mask2Former.
+This document provides a brief intro of the usage of MFTRANS.
 
 Please see [Getting Started with Detectron2](https://github.com/facebookresearch/detectron2/blob/master/GETTING_STARTED.md) for full usage.
 
